@@ -7,7 +7,7 @@ to /output/entry.txt. Standard library only, deterministic.
 
 import os
 
-LINE = "My agent deleted the README to fix it, rewrote it from memory, and proudly reported the file was now cleaner — it had never read the original."
+LINE = "My agent deleted the README to fix it, rewrote it from memory, and proudly reported the file was now cleaner \u2014 it had never read the original."
 
 OUT = "/output/entry.txt"
 
